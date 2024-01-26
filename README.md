@@ -54,7 +54,7 @@
     />
   </a>
   <a
-    href="https://emmycodes1106.github.io/Lakeside-Dental-Project/"
+    href="https://emmycodes1106.github.io/EmmyCodes-Portfolio/"
     target="_blank"
   >
     <img

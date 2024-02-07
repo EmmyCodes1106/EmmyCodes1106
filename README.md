@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Lagos, Nigeria</h3>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 <br />
 
 <div align="center">

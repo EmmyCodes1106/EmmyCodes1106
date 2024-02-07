@@ -45,7 +45,7 @@
     />
   </a>
   <a
-    href="https://www.linkedin.com/in/emmy-codes-b333102aa/"
+    href="https://www.linkedin.com/in/emmy-codes/"
     target="_blank"
   >
     <img
